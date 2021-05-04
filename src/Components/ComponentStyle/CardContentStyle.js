@@ -43,7 +43,7 @@ padding:10px;
 border:1px outset black;
 
 border-radius:0px 10px 0px 10px;
-
+width:100%;
 
 
 `;
@@ -54,7 +54,6 @@ export const CardDescription = styled.p`
 font-family: 'Roboto', sans-serif;
 font-size: 20px;
 font-weight:bold;
-width:20vw;
 `;
 export const CardButtons = styled.div`
 display:flex;
