@@ -1,0 +1,56 @@
+{
+    "task":[ 
+        {
+                "id":1,
+                "taskSub":"Learning",
+                "taskDes":"Learn about GraphQl and make Small Project",
+                "position":0
+              },{
+                "id":2,
+                "taskSub":"Shopping",
+                "taskDes":"Buy Magic Keyboard and apple tv 4k",
+                "position":0
+              },{
+                "id":3,
+                "taskSub":"Selling",
+                "taskDes":"my old Tesla Model S",
+                "position":0
+              },{
+                "id":4,
+                "taskSub":"Trip",
+                "taskDes":"Trip to Bali ❤",
+                "position":0
+              },{
+                "id":5,
+                "taskSub":"Redux",
+                "taskDes":"learn Redux state management system",
+                "position":1
+              },{
+                "id":6,
+                "taskSub":"Flutter",
+                "taskDes":"Make new Android app using Flutter",
+                "position":1
+              },{
+                "id":7,
+                "taskSub":"Website",
+                "taskDes":"work on website design",
+                "position":1
+              },{
+                "id":8,
+                "taskSub":"Responsive",
+                "taskDes":"Learn about responsive design media query etc.",
+                "position":2
+              },{
+                "id":9,
+                "taskSub":"IOT",
+                "taskDes":"Work on some project",
+                "position":2
+              },{
+                "id":10,
+                "taskSub":"Task workflow project",
+                "taskDes":"Make task workflow project using reactjs",
+                "position":3
+              }
+            
+            ]
+}
