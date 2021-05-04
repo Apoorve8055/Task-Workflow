@@ -1,3 +1,6 @@
+<img src="https://github.com/Apoorve8055/Task-Workflow/raw/main/screenshots/1.png"/>
+
+
 # Task Workflow
 
 It is a web application that monitors task workflow and makes you productive 
